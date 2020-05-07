@@ -1,0 +1,14 @@
+export(MomTailIndex, MLTailIndex, HTailIndex, EBTailIndex, extQuantile, estExpectiles, predExpectiles, expectiles, rtimeseries, estExtLevel, QuantMES, ExpectMES,
+rbtimeseries)
+
+importFrom("stats", "df", "qf", "dnorm", "dt", "ecdf", "integrate", "optim",
+           "pnorm", "pt", "quantile", "rnorm", "runif", "dunif", "uniroot",
+           "var", "rpois", "dpois", "rbeta", "dbeta", "dnbinom", "pexp", "qt", 
+	   "qchisq", "pbeta", "qnorm", "cov", "rnbinom", "rt", "rbinom", "acf")
+
+importFrom("evd", "rbvevd", "abvnonpar", "amvnonpar", "pfrechet", "pgumbel", 
+	   "pgev", "abvevd", "hbvevd", "rgpd", "rfrechet", "pgpd", "qgpd")
+
+importFrom("mvtnorm", "rmvt", "rmvnorm")
+
+importFrom("copula", "rCopula", "gumbelCopula", "normalCopula")
