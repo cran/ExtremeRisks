@@ -43,8 +43,7 @@ extMultiQuantile(data, tau, tau1, var=FALSE, varType="asym-Ind-Log", bias=FALSE,
 }
 
 \references{
-  Padoan A.S. and Stupfler, G. (2020). Joint inference on extreme expectiles for multivariate
-  heavy-tailed distributions. \emph{arXiv e-prints} arXiv:2007.08944, \url{https://arxiv.org/abs/2007.08944}
+  Simone A. Padoan and Gilles Stupfler (2022). Joint inference on extreme expectiles for multivariate heavy-tailed distributions, \emph{Bernoulli} \bold{28}(2), 1021-1048.
 
   de Haan, L., Mercadier, C. and Zhou, C. (2016). Adapting extreme value statistics
   to financial time series: dealing with bias and serial dependence. \emph{Finance and Stochastics},
@@ -54,11 +53,11 @@ extMultiQuantile(data, tau, tau1, var=FALSE, varType="asym-Ind-Log", bias=FALSE,
  }
 
 \author{
-	Simone Padoan, \email{simone.padoan@unibocconi.it},
-	\url{http://mypage.unibocconi.it/simonepadoan/};
-	Gilles Stupfler, \email{gilles.stupfler@ensai.fr},
-	\url{http://ensai.fr/en/equipe/stupfler-gilles/}
-}
+ 	Simone Padoan, \email{simone.padoan@unibocconi.it},
+ 	\url{https://faculty.unibocconi.it/simonepadoan/};
+ 	Gilles Stupfler, \email{gilles.stupfler@univ-angers.fr},
+ 	\url{https://math.univ-angers.fr/~stupfler/}
+ }
 
 \seealso{
 	\link{MultiHTailIndex},  \link{estMultiExpectiles}, \link{predMultiExpectiles}

@@ -2,7 +2,7 @@
 \alias{sp500}
 \alias{sp500}
 
-\title{Negative log-returns of S\&P 500.}
+\title{Negative log-returns of S&P 500.}
 
 \description{Series of negative log-returns of the U.S. stock market index Standard and Poor 500.}
 

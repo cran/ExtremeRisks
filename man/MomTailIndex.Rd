@@ -29,9 +29,9 @@ de Haan, L. and Ferreira, A. (2006). Extreme Value Theory: An Introduction. \emp
 
 \author{
 	Simone Padoan, \email{simone.padoan@unibocconi.it},
-	\url{http://mypage.unibocconi.it/simonepadoan/};
-	Gilles Stupfler, \email{gilles.stupfler@ensai.fr},
-	\url{http://ensai.fr/en/equipe/stupfler-gilles/}
+	\url{https://faculty.unibocconi.it/simonepadoan/};
+	Gilles Stupfler, \email{gilles.stupfler@univ-angers.fr},
+	\url{https://math.univ-angers.fr/~stupfler/}
 }
 
 \seealso{

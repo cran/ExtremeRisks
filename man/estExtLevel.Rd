@@ -53,7 +53,7 @@ estExtLevel(alpha_n, data=NULL, gammaHat=NULL, VarGamHat=NULL, tailest="Hill", k
 }
 
 \references{
-Padoan A.S. and Stupfler, G. (2020). Extreme expectile estimation for heavy-tailed time series. \emph{arXiv e-prints} arXiv:2004.04078, \url{https://arxiv.org/abs/2004.04078}.
+Anthony C. Davison, Simone A. Padoan and Gilles Stupfler (2023). Tail Risk Inference via Expectiles in Heavy-Tailed Time Series, \emph{Journal of Business & Economic Statistics}, \bold{41}(3) 876-889.
 
 Daouia, A., Girard, S. and Stupfler, G. (2018). Estimation of tail risk based on extreme expectiles. \emph{Journal of the Royal Statistical Society: Series B}, \bold{80}, 263-292.
 
@@ -61,9 +61,9 @@ Daouia, A., Girard, S. and Stupfler, G. (2018). Estimation of tail risk based on
 
 \author{
 	Simone Padoan, \email{simone.padoan@unibocconi.it},
-	\url{http://mypage.unibocconi.it/simonepadoan/};
-	Gilles Stupfler, \email{gilles.stupfler@ensai.fr},
-	\url{http://ensai.fr/en/equipe/stupfler-gilles/}
+	\url{https://faculty.unibocconi.it/simonepadoan/};
+	Gilles Stupfler, \email{gilles.stupfler@univ-angers.fr},
+	\url{https://math.univ-angers.fr/~stupfler/}
 }
 
 \seealso{

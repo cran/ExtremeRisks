@@ -43,15 +43,14 @@ HypoTesting(data, tau, tau1=NULL, type="ExpectRisks", level="extreme",
 }
 
 \references{
-Padoan A.S. and Stupfler, G. (2020). Joint inference on extreme expectiles for multivariate
-heavy-tailed distributions. \emph{arXiv e-prints} arXiv:2007.08944, \url{https://arxiv.org/abs/2007.08944}
+Simone A. Padoan and Gilles Stupfler (2022). Joint inference on extreme expectiles for multivariate heavy-tailed distributions, \emph{Bernoulli} \bold{28}(2), 1021-1048.
 }
 
 \author{
 	Simone Padoan, \email{simone.padoan@unibocconi.it},
-	\url{http://mypage.unibocconi.it/simonepadoan/};
-	Gilles Stupfler, \email{gilles.stupfler@ensai.fr},
-	\url{http://ensai.fr/en/equipe/stupfler-gilles/}
+	\url{https://faculty.unibocconi.it/simonepadoan/};
+	Gilles Stupfler, \email{gilles.stupfler@univ-angers.fr},
+	\url{https://math.univ-angers.fr/~stupfler/}
 }
 
 \seealso{
